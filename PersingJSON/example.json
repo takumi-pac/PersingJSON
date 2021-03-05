@@ -1,0 +1,14 @@
+{
+"first_name":"John"
+"last_name":"Smith"
+"age":"30"
+"is_male":"true"
+"country":"United States"
+"sublings":[
+  "Brad"
+  "Joe"
+  "Brianna"
+  "Kim"
+]
+
+}
